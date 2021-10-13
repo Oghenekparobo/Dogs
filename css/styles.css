@@ -1,0 +1,103 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Cabin', sans-serif;
+}
+a{ 
+    font-family: 'Cabin', sans-serif;
+}
+
+
+.imgs{ 
+    width: 200px;
+   
+}
+.custom-bg{ 
+    background-color: rgb(222, 184, 135);
+}
+
+.d-nav img{ 
+    width: 50px;
+}
+
+.d-banner{ 
+    background-image: url(../img/karsten-winegeart-Qb7D1xw28Co-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+.d-banner-text{ 
+    transform:  translateY(100%);
+    text-shadow: 2px 2px rgb(222, 184, 135);
+}
+
+.d-banner-text h5{ 
+    font-size: 1.8rem;
+}
+
+.d-banner-text h1{ 
+    font-size: 5rem;
+}
+
+.d-btn{ 
+    text-shadow: 0 0 0;
+}
+
+.d-img{ 
+    background-image: url(../img/visuals-of-theodor-lylytYIVMnI-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 500px;
+    height: 600px;
+}
+
+footer{ 
+    margin-top: 10rem;
+    padding: 5rem;
+}
+
+footer .d-footer2 p{ 
+    transform:  translateY(300%);
+}
+
+/* gallery section */
+.deco-text h1{ 
+    font-family: 'Permanent Marker', cursive;
+    font-size: 7em;
+}
+
+.deco-img{ 
+    background-image: url(../img/tamas-pap-kA967nN0jAA-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    width: 250px;
+}
+
+.breed-ground{ 
+    box-shadow: 2px 0px rgb(201, 164, 116);
+ 
+}
+.food-ground{
+    box-shadow: 2px 1px rgba(0, 0, 0, 0.02);
+    
+}
+
+.letter-spacing{
+    letter-spacing: 3px;
+}
+
+.t-img{
+    background-image: url(../img/paw2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    width: 250px;
+}
